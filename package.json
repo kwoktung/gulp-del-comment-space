@@ -1,0 +1,28 @@
+{
+  "name": "gulp-plugin-tutorial",
+  "version": "1.0.0",
+  "description": "gulp plugin tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwoktung/gulp-plugin-tutorial.git"
+  },
+  "keywords": [
+    "gulp",
+    "plugin",
+    "tutorial"
+  ],
+  "author": "kwoktung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwoktung/gulp-plugin-tutorial/issues"
+  },
+  "homepage": "https://github.com/kwoktung/gulp-plugin-tutorial#readme",
+  "devDependencies": {
+    "gulp-util": "gulpjs/gulp-util",
+    "through2": "^2.0.1"
+  }
+}
