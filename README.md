@@ -1,4 +1,6 @@
-### Gulp 插件
+### Gulp 插件 
+
+![Build Result](https://travis-ci.org/kwoktung/gulp-plugin-tutorial.svg?branch=master)
 
 - - -
 
